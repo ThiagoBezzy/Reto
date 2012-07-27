@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=RETO
+Comment=A modern light theme for Gnome
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=RETO
+MetacityTheme=RETO
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close

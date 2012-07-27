@@ -1549,7 +1549,7 @@ GtkScale.mark {
     -GtkScrollbar-has-forward-stepper: 0;
     -GtkRange-slider-width: 13;
 
-    border-radius: 0px; /* 20 radius */
+    border-radius: 2px;
 
     -unico-border-gradient: -gtk-gradient (linear, left top, left bottom,
                                            from (shade (@bg_color, 0.74)),
