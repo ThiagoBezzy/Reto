@@ -1,12 +1,4 @@
-[Desktop Entry]
-Type=X-GNOME-Metatheme
-Name=Reto
-Comment=Ubuntu Ambiance theme
-Encoding=UTF-8
 
-[X-GNOME-Metatheme]
-GtkTheme=Reto
-MetacityTheme=Reto
-IconTheme=ubuntu-mono-light
-CursorTheme=DMZ-White
-ButtonLayout=close,minimize,maximize:
+2- 
+
+1- A Cor da letra do painel e os ícones não estão de acordo com o tema, sofrendo conflitos entre o tema dark e light
