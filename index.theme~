@@ -1,4 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=RETO
+Comment=A modern light theme for Gnome
+Encoding=UTF-8
 
-2- 
-
-1- A Cor da letra do painel e os ícones não estão de acordo com o tema, sofrendo conflitos entre o tema dark e light
+[X-GNOME-Metatheme]
+GtkTheme=RETO
+MetacityTheme=RETO
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close
